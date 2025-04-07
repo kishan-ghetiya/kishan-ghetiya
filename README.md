@@ -27,6 +27,9 @@
   <a href="mailto:kishanp.ghetiya@gmail.com" target="_blank">
     <img alt="Gmail" height="25" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://x.com/kishan__ghetiya" target="_blank">
+    <img alt="Twitter" height="25" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 ---
